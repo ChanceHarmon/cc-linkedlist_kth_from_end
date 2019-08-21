@@ -1,7 +1,7 @@
 {
   "name": "linked-list",
   "version": "1.0.0",
-  "description": "",
+  "description": "<!-- Short summary or background information -->",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,5 +11,13 @@
   "license": "ISC",
   "dependencies": {
     "superagent": "^5.1.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChanceHarmon/cc-linkedlist_kth_from_end.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ChanceHarmon/cc-linkedlist_kth_from_end/issues"
+  },
+  "homepage": "https://github.com/ChanceHarmon/cc-linkedlist_kth_from_end#readme"
 }
